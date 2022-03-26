@@ -1,0 +1,29 @@
+{
+  "name": "learn_nodejs",
+  "version": "1.0.0",
+  "description": "learn nodejs 26_3_2022",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2001phamtoan2005/learn_nodejs.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "minhToan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2001phamtoan2005/learn_nodejs/issues"
+  },
+  "homepage": "https://github.com/2001phamtoan2005/learn_nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
